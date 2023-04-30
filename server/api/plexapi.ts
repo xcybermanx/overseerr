@@ -124,9 +124,9 @@ class PlexAPI {
       // },
       options: {
         identifier: settings.clientId,
-        product: 'GXVOD',
+        product: 'Overseerr',
         deviceName: 'GXVOD',
-        platform: 'GXVOD',
+        platform: 'Overseerr',
       },
     });
   }
